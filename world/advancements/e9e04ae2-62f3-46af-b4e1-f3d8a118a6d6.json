@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-06-04 22:25:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_brick": "2018-06-03 17:24:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-04 11:27:52 -0400"
     },
     "done": true
   },
@@ -113,6 +125,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-04 11:27:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-06-04 22:26:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-06-03 23:09:39 -0400"
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-06-04 22:25:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2018-06-03 16:54:00 -0400"
@@ -170,6 +200,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2018-06-03 16:54:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-06-04 22:48:33 -0400"
     },
     "done": true
   },
@@ -341,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "polar_bear": "2018-06-04 23:00:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-06-03 16:54:00 -0400"
@@ -380,9 +422,12 @@
       "swampland": "2018-06-03 23:07:00 -0400",
       "deep_ocean": "2018-06-03 23:10:02 -0400",
       "beaches": "2018-06-03 16:54:25 -0400",
+      "extreme_hills_with_trees": "2018-06-04 22:41:34 -0400",
       "desert_hills": "2018-06-03 17:33:43 -0400",
+      "forest_hills": "2018-06-04 22:42:21 -0400",
       "plains": "2018-06-03 16:54:00 -0400",
       "savanna": "2018-06-03 23:06:41 -0400",
+      "savanna_rock": "2018-06-04 22:30:30 -0400",
       "taiga": "2018-06-03 23:09:00 -0400",
       "ocean": "2018-06-03 16:56:27 -0400",
       "extreme_hills": "2018-06-03 23:07:56 -0400",
@@ -395,6 +440,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2018-06-03 16:54:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-04 11:27:52 -0400"
     },
     "done": true
   },
@@ -482,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-06-04 22:45:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2018-06-03 16:54:00 -0400"
@@ -566,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "polar_bear": "2018-06-04 23:00:23 -0400"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-06-03 17:21:24 -0400"
@@ -587,6 +650,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-06-03 16:58:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-04 11:27:52 -0400"
     },
     "done": true
   },
@@ -617,6 +686,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2018-06-03 23:09:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-06-04 11:27:52 -0400"
     },
     "done": true
   },
