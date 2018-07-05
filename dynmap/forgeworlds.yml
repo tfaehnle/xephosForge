@@ -1,0 +1,22 @@
+worlds:
+-   sealevel: 64
+    nether: false
+    name: world
+    the_end: false
+    title: world/overworld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM1
+    the_end: true
+    title: world/the_end
+    height: 256
+-   sealevel: 64
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: world/the_nether
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
